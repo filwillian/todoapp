@@ -11,4 +11,5 @@ More info will be added
 <p float="left">
 <img width="425" src="screenshots/Screenshot_2.png">
 <img width="425" src="screenshots/Screenshot_1.png">
+<img width="425" src="screenshots/Screenshot_3.png">
 </p>
