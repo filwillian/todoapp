@@ -1,10 +1,11 @@
 # :book: Todo App
 
-This lutter practice project 
+This flutter project for practice
 
 ## :hammer: Getting Started
 
-More info will be added
+Run the app:
+''' flutter run '''
 
 ## :camera: Screenshots
 
